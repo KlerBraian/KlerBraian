@@ -3,10 +3,6 @@
 
 <h3 align="center">I am a fun and determined developer to create efficient and functional solutions. I have trained in frontend and backend technologies. I am looking for opportunities to contribute to innovative projects, improve my skills and continue learning in the world of web development.</h3>
 
-- 🔭 I’m currently working on [kler-tienda-react](https://kler-tienda-react.vercel.app/)
-
-- 🌱 I’m currently learning **Full stack developer**
-
 - 📫 How to reach me **braiankler.30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
