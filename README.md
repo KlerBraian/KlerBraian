@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Braian Kler</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+
+<h3 align="center">I am a fun and determined developer to create efficient and functional solutions. I have trained in frontend and backend technologies. I am looking for opportunities to contribute to innovative projects, improve my skills and continue learning in the world of web development.</h3>
 
 - 🔭 I’m currently working on [kler-tienda-react](https://kler-tienda-react.vercel.app/)
 
